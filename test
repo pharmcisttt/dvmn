@@ -27,10 +27,6 @@
 #                  '`--._,dd###pp='''
 #""")
 
-
-from typing import clear_overloads
-
-
 print("\u001b[32m")
 print("""        
                    .ovr:HMM#?:`' >b\\_
